@@ -1,3 +1,7 @@
+
+![image](https://github.com/a2rp/movie-search-app/assets/5670738/e5505817-b15a-4a77-a062-28a9d4206d40)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
